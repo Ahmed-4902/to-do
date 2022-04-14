@@ -1,0 +1,5 @@
+1- check on fav & del & done
+
+2- clear Completed
+
+3- sort all-active-Completed
